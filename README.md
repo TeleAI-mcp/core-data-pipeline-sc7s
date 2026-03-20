@@ -1,2 +1,3 @@
-# core-data-pipeline-sc7s
-A data processing pipeline for modern development workflows
+# Core Data Pipeline Sc7S
+
+A data processing pipeline for modern development workflows.
